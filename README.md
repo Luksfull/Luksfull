@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developing my skills as a frontend developer
+- 🌱 I’m currently learning React / NodeJS
+- 👯 I’m looking to collaborate on JavaScript projects.
+
 <!--
 **Luksfull/Luksfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
