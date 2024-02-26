@@ -1,8 +1,13 @@
 ### Hi there 👋
+My name is Luca. Recently I have discovered the joy of developing software and I am looking to further expand this into a career.
 
-- 🔭 I’m currently working on developing my skills as a frontend developer
+My stack currently includes: 
+- ![https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png] HTML
+
+
+- 🔭 I’m currently working on developing my skills as a software developer
 - 🌱 I’m currently learning React / NodeJS
-- 👯 I’m looking to collaborate on JavaScript projects.
+- 👯 I’m looking to collaborate on React/JavaScript projects.
 
 <!--
 **Luksfull/Luksfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
