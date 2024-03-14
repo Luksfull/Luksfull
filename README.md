@@ -2,7 +2,7 @@
 My name is Luca. Recently I have discovered the joy of developing software and I am looking to further expand this into a career.
 
 - 🔭 I’m currently working on developing my skills as a software developer
-- 🌱 I’m currently learning React / Java
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on React/JavaScript projects.
 
 My current stack includes:
