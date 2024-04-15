@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Luca. Recently I have discovered the joy of developing software.
+My name is Luca. Recently I have discovered the joy of developing software. As such, I have created apps for my personal use.
 
 - 🔭 I’m currently working on developing my skills as a software developer
 - 🌱 I’m currently learning Java
